@@ -40,9 +40,11 @@ The package includes the following modulues:
     5.6 Instantaneous-phase-difference (IP)
     5.7 (RMS) Amplitude-difference (AD)
     5.8 (RMS) Amplitude-log-ratio (AR)
-    5.9 Differential-traveltime (DT)
-    5.10 Differential-amplitude (DA)
-    5.11 ongoing........
+    5.9 Multitape-traveltime (MT)
+    5.10 Multitape-amplitude (MA)
+    5.11 Differential-traveltime (DT)
+    5.12 Differential-amplitude (DA)
+    5.13 ongoing........
 
 
 This package is extended from seisDD:
