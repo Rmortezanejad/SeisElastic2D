@@ -9,6 +9,7 @@ The package includes the following modulues:
     1.1 (diagonal Hessian preconditioned) steepest-denscent (SD)
     1.2 (preconditioned) non-linear conjugate gradient (NCG)
     1.3 (preconditioned) L-BFGS
+    1.4 ongoing....
 
 2 Isotropic-elastic FWI with different model parameterizations: 
 
@@ -18,6 +19,7 @@ The package includes the following modulues:
     2.4 Impedance-density (IPD)
     2.5 Impedance-velocity (VIP)
     2.6 Velocity-Vp/Vs ratio
+    2.7 ongoing....
 
 3 Anisotropic-elastic FWI in VTI, HTI and TTI media: 
 
@@ -43,6 +45,9 @@ The package includes the following modulues:
     5.11 ongoing........
 
 
+This package is extended from seisDD
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
 Related publications:
 
@@ -52,4 +57,9 @@ seismic profile data for unconventional (heavy oil) reservoir characterization. 
 Pan, W., Y. Geng and K. A. Innanen. Interparameter tradeoff quantification and reduction in isotropic-elastic full-waveform
 inversion: synthetic experiments and Hussar land data set application. Geophysical Journal International, 2018, 213: 1305-1333.
 
+Yuan O.Y., Simons F.J., Tromp J., 2016. Double-difference adjoint seismic tomography, Geophys. J. Int., 206, 1599–1618.
+
+Yuan O.Y., Simons F.J., Bozdağ E., 2015. Multiscale adjoint waveform tomography for surface and body waves, Geophysics, 80, R281–R302.
+
+Yuan O.Y., Simons F.J., 2014. Multiscale adjoint waveform-difference tomography using wavelets, Geophysics,79, WA79–WA95.
 
