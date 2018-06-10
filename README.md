@@ -45,8 +45,9 @@ The package includes the following modulues:
     5.11 ongoing........
 
 
-This package is extended from seisDD
+This package is extended from seisDD:
 
+https://github.com/yanhuay/seisDD
 
 ---------------------------------------------------------------------------------------------------------------------------------
 Related publications:
