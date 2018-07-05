@@ -44,7 +44,8 @@ The package includes the following modulues:
     5.10 Multitape-amplitude (MA)
     5.11 Differential-traveltime (DT)
     5.12 Differential-amplitude (DA)
-    5.13 ongoing........
+    5.13 Spectral-ratio (SR)
+    5.14 Spectral-matching (SM)
 
 
 This package is extended from seisDD:
