@@ -48,12 +48,8 @@ The package includes the following modulues:
     5.14 Spectral-matching (SM)
 
 
-This package is extended from seisDD:
-
-https://github.com/yanhuay/seisDD
-
 ---------------------------------------------------------------------------------------------------------------------------------
-Related publications:
+References:
 
 Pan, W., K. A. Innanen and Y, Geng. Elastic full-waveform inversion and parameterization analysis applied to walk away vertical
 seismic profile data for unconventional (heavy oil) reservoir characterization. Geophysical Journal International, 2018, 213: 1-35.
@@ -67,3 +63,4 @@ Yuan O.Y., Simons F.J., Bozdağ E., 2015. Multiscale adjoint waveform tomography
 
 Yuan O.Y., Simons F.J., 2014. Multiscale adjoint waveform-difference tomography using wavelets, Geophysics,79, WA79–WA95.
 
+https://github.com/yanhuay/seisDD
